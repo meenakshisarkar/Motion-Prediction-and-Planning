@@ -8,7 +8,7 @@ permalink: /dataset/
 # About
 The dataset currently consists of data recorded using two different robotic platforms: **Turtlebots** and **LEGO robots**.
 
-![](/images/robots3.png){: .center-image }
+![](/images/robots3.PNG){: .center-image }
 *Turtlebot3 (Left), Lego Mindstorms (right)*
 
 # LegoBot Data
