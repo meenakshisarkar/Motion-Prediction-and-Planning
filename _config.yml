@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: meenakshisarkar/Motion-Prediction-and-Planning
+remote_theme: meenakshisarkar/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
