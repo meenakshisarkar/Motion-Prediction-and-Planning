@@ -6,4 +6,4 @@ permalink: /Servoing/
 ---
 
 # About
-This page contains information about VANet.
+This page contains information about Visual servoing with RL.
