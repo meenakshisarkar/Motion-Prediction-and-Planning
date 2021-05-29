@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vanet
-description: Vanet
+title: VANet
+description: VANet
 permalink: /vanet/
 ---
 
