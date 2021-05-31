@@ -15,6 +15,7 @@ permalink: /vanet/
 <!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/gt.gif){:height="150px" width="150px"}    ![](/images/VANet.gif){:height="150px" width="150px"} ![](/images/MCNet.gif){:height="150px" width="150px"}    ![](/images/svg.gif){:height="150px" width="150px"}
+*Results from Ground Truth, VANet, MCNet and SVG respectively (from left to right)*
 <!-- <p float="center"> -->
 <!-- <img src="/images/gt.gif" width="425"/>  <img src="images/VANet.gif" width="425"/>  <img src="images/MCNet.gif" width="425"/> <img src="images/svg.gif" width="425"/>   -->
 <!-- </p> -->
@@ -23,3 +24,4 @@ permalink: /vanet/
 <!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/kitti_gt.gif){:height="150px" width="150px"}    ![](/images/kitti_vanet.gif){:height="150px" width="150px"} ![](/images/kitti_mcnet.gif){:height="150px" width="150px"}    ![](/images/kitti_svg.gif){:height="150px" width="150px"}
+*Results from Ground Truth, VANet, MCNet and SVG respectively (from left to right)*
