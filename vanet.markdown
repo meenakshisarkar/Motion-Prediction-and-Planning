@@ -10,14 +10,16 @@ permalink: /vanet/
 # Architecture of VANet 
 ![](/images/VANet.png){: .center-image }
 <!-- *Turtlebot3 (Left), Lego Mindstorms (right)* -->
-[BAIR Towel Pick Dataset] (https://sites.google.com/berkeley.edu/robotic-interaction-datasets/home)
+# BAIR Towel Pick Dataset 
+<!-- (https://sites.google.com/berkeley.edu/robotic-interaction-datasets/home) -->
 <!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/gt.gif){:height="150px" width="150px"}    ![](/images/VANet.gif){:height="150px" width="150px"} ![](/images/MCNet.gif){:height="150px" width="150px"}    ![](/images/svg.gif){:height="150px" width="150px"}
 <!-- <p float="center"> -->
 <!-- <img src="/images/gt.gif" width="425"/>  <img src="images/VANet.gif" width="425"/>  <img src="images/MCNet.gif" width="425"/> <img src="images/svg.gif" width="425"/>   -->
 <!-- </p> -->
-[KITTI Dataset] (https://sites.google.com/berkeley.edu/robotic-interaction-datasets/home)
+# KITTI Dataset
+<!-- (https://sites.google.com/berkeley.edu/robotic-interaction-datasets/home) -->
 <!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/kitti_gt.gif){:height="150px" width="150px"}    ![](/images/kitti_vanet.gif){:height="150px" width="150px"} ![](/images/kitti_mcnet.gif){:height="150px" width="150px"}    ![](/images/kitti_svg.gif){:height="150px" width="150px"}
