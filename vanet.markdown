@@ -11,7 +11,7 @@ permalink: /vanet/
 ![](/images/VANet.png){: .center-image }
 <!-- *Turtlebot3 (Left), Lego Mindstorms (right)* -->
 # BAIR Towel Pick Dataset
-Ground Truth               |  VANet                     | MCNet                    |  SVG
-:-------------------------:|:--------------------------:|:------------------------:|:-------------------------:
+<!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
+:-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/gt.gif)   |  ![](/images/VANet.gif)|![](/images/MCNet.gif)  |  ![](/images/svg.gif)
 
