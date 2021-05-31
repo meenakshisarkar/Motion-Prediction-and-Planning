@@ -10,7 +10,7 @@ permalink: /vanet/
 # Architecture of VANet 
 ![](/images/VANet.png){: .center-image }
 <!-- *Turtlebot3 (Left), Lego Mindstorms (right)* -->
-# BAIR Towel Pick Dataset
+# [BAIR Towel Pick Dataset] (https://sites.google.com/berkeley.edu/robotic-interaction-datasets/home)
 <!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/gt.gif){:height="150px" width="150px"}    ![](/images/VANet.gif){:height="150px" width="150px"} ![](/images/MCNet.gif){:height="150px" width="150px"}    ![](/images/svg.gif){:height="150px" width="150px"}
