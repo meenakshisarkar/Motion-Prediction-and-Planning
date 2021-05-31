@@ -13,7 +13,7 @@ permalink: /vanet/
 # BAIR Towel Pick Dataset
 <!-- Ground Truth               |  VANet                     | MCNet                    |  SVG
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
-![](/images/gt.gif){:height="100px" width="100px"}    ![](/images/VANet.gif) ![](/images/MCNet.gif)    ![](/images/svg.gif)
+![](/images/gt.gif){:height="150px" width="150px"}    ![](/images/VANet.gif){:height="150px" width="150px"} ![](/images/MCNet.gif){:height="150px" width="150px"}    ![](/images/svg.gif){:height="150px" width="150px"}
 <!-- <p float="center"> -->
 <!-- <img src="/images/gt.gif" width="425"/>  <img src="images/VANet.gif" width="425"/>  <img src="images/MCNet.gif" width="425"/> <img src="images/svg.gif" width="425"/>   -->
 <!-- </p> -->
