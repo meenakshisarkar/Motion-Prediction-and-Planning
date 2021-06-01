@@ -27,6 +27,7 @@ permalink: /vanet/
 *Results from Ground Truth, VANet, MCNet and SVG respectively (from left to right)*
 
 [Link to Code](https://github.com/meenakshisarkar/vanet-pmlr.git)
+
 [Link to Paper](https://preregister.science/papers_20neurips/85_paper.pdf)
 
 ## Citation
