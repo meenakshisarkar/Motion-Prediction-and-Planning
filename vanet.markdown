@@ -25,3 +25,19 @@ permalink: /vanet/
 :-------------------------:|:--------------------------:|:------------------------:|:-------------------------: -->
 ![](/images/kitti_gt.gif){:height="150px" width="150px"}    ![](/images/kitti_vanet.gif){:height="150px" width="150px"} ![](/images/kitti_mcnet.gif){:height="150px" width="150px"}    ![](/images/kitti_svg.gif){:height="150px" width="150px"}
 *Results from Ground Truth, VANet, MCNet and SVG respectively (from left to right)*
+
+[Link to Code](https://github.com/meenakshisarkar/vanet-pmlr.git)
+[Link to Paper](https://preregister.science/papers_20neurips/85_paper.pdf)
+
+## Citation
+If you are using VANet, please cite our proposal paper as:
+```
+@inproceedings{vanet,
+  title={Decomposing camera and object motion for an improved video sequence prediction},
+  author={Meenakshi Sarkar and Debasish Ghose},
+  booktitle={Pre-registration workshop NeurIPS (2020), Vancouver, Canada},
+  pages={},
+  year={2020}
+}
+```
+##
