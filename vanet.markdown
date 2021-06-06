@@ -42,3 +42,6 @@ If you are using VANet, please cite our proposal paper as:
 }
 ```
 ##
+
+## Link to the final results paper will be updated soon. (currently under-review)
+##
