@@ -5,5 +5,4 @@ description: Visual Servoing With prediction
 permalink: /Servoing/
 ---
 
-# About
-This page contains information about Visual servoing with RL.
+# The detailed regarding the project will be updated soon. Currently this is a work in progress.
