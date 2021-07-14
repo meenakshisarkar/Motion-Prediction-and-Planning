@@ -28,20 +28,25 @@ permalink: /vanet/
 
 [Link to Code](https://github.com/meenakshisarkar/vanet-pmlr.git)
 
-[Link to Paper](https://preregister.science/papers_20neurips/85_paper.pdf)
+[Link to Paper](http://proceedings.mlr.press/v148/sarkar21a/sarkar21a.pdf)
 
 ## Citation
-If you are using VANet, please cite our proposal paper as:
+If you are using VANet, please cite our paper as:
 ```
-@inproceedings{vanet,
-  title={Decomposing camera and object motion for an improved video sequence prediction},
-  author={Meenakshi Sarkar and Debasish Ghose},
-  booktitle={Pre-registration workshop NeurIPS (2020), Vancouver, Canada},
-  pages={},
-  year={2020}
+@InProceedings{pmlr-v148-sarkar21a,
+  title = 	 {Decomposing camera and object motion for an improved video sequence prediction},
+  author =       {Sarkar, Meenakshi and Ghose, Debasish and Bala, Aniruddha},
+  booktitle = 	 {NeurIPS 2020 Workshop on Pre-registration in Machine Learning},
+  pages = 	 {358--374},
+  year = 	 {2021},
+  editor = 	 {Bertinetto, Luca and Henriques, João F. and Albanie, Samuel and Paganini, Michela and Varol, Gül},
+  volume = 	 {148},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {11 Dec},
+  publisher =    {PMLR}
 }
+
 ```
 ##
 
-## Link to the final results paper in PMLR will be updated soon.
 
