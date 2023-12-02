@@ -17,14 +17,23 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 ![](/images/fig_roman_processed_data.png){: .center-image }
 *The processed data file structure of RoAM*
 
-# TurtleBot3 Data Download
+# RoAM Dataset Download
 
 The initial version of the dataset is currently available in TFRecord file format. To download the dataset, please drop an email to <meenakshisar@iisc.ac.in> with the subject line **Access to RoAM dataset** along with your affiliation and purpose to use for the dataset. 
 
 
 
-# Download Links
+# Cite RoAM as:
 
-[LegoBot Dataset](http://bit.ly/IIScRoM)
+```
+@InProceedings{acpnet2023,
+  author={Sarkar, Meenakshi and Honkote, Vinayak and Das, Dibyendu and Ghose, Debasish},
+  booktitle={2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)}, 
+  title={Action-conditioned Deep Visual Prediction with RoAM, a new Indoor Human Motion Dataset for Autonomous Robots}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1115-1120},
+  doi={10.1109/RO-MAN57019.2023.10309423}}
 
-[TurtleBot3 Dataset](https://drive.google.com/folderview?id=15x2n33EHm46spig6oP6ToOuRtUTcGC--)
+```
