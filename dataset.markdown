@@ -6,7 +6,9 @@ permalink: /dataset/
 ---
 
 # About
-The dataset currently consists of data recorded using two different robotic platforms: **Turtlebots** and **LEGO robots**.
+We introduce the **Robot Autonomous Motion (RoAM)** video dataset, which is collected with a custom-made turtlebot3 Burger robot in a variety of indoor environments recording various human motions from the robot's ego-vision. The dataset also includes synchronized records of the LiDAR scan and all control actions taken by the robot as it navigates around static and moving human agents. The unique dataset provides an opportunity to develop and benchmark new visual prediction frameworks that can predict future image frames based on the action taken by the recording agent in partially observable scenarios or cases where the imaging sensor is mounted on a moving platform.
+
+%The dataset currently consists of data recorded using two different robotic platforms: **Turtlebots** and **LEGO robots**.
 
 ![](/images/robots3.PNG){: .center-image }
 *Turtlebot3 (Left), Lego Mindstorms (right)*
