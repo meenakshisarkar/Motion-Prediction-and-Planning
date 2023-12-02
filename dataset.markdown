@@ -33,7 +33,6 @@ The initial version of the dataset is currently available in TFRecord file forma
   volume={},
   number={},
   pages={1115-1120},
-  doi={10.1109/RO-MAN57019.2023.10309423}}
-
+  doi={10.1109/RO-MAN57019.2023.10309423}
+}
 ```
-##
