@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ROAM Dataset
-description: Robot Automation and Motion Dataset
+description: Robot Autonomous Motion Dataset
 permalink: /dataset/
 ---
 
@@ -23,7 +23,7 @@ The initial version of the dataset is currently available in TFRecord file forma
 
 
 
-## Cite RoAM as:
+# Cite RoAM as:
 @InProceedings{acpnet2023,
   author={Sarkar, Meenakshi and Honkote, Vinayak and Das, Dibyendu and Ghose, Debasish},
   booktitle={2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)}, 
