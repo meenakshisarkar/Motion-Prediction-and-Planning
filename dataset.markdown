@@ -23,8 +23,7 @@ The initial version of the dataset is currently available in TFRecord file forma
 
 
 
-# Cite RoAM as:
-
+## Cite RoAM as:
 ```
 @InProceedings{acpnet2023,
   author={Sarkar, Meenakshi and Honkote, Vinayak and Das, Dibyendu and Ghose, Debasish},
@@ -37,3 +36,4 @@ The initial version of the dataset is currently available in TFRecord file forma
   doi={10.1109/RO-MAN57019.2023.10309423}}
 
 ```
+##
