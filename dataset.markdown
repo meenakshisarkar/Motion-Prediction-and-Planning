@@ -51,10 +51,10 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 </head>
 <body>
     <div class="image-container">
-        <img src="../images/gt_1.gif" alt="Training Sample 1">
-        <img src="../images/gt_2.gif" alt="Training Sample 2">
-        <img src="../images/gt_3.gif" alt="Training Sample 3">
-        <img src="../images/gt_4.gif" alt="Training Sample 4">
+        <img src="/images/gt_1.gif" alt="Training Sample 1">
+        <img src="/images/gt_2.gif" alt="Training Sample 2">
+        <img src="/images/gt_3.gif" alt="Training Sample 3">
+        <img src="/images/gt_4.gif" alt="Training Sample 4">
     </div>
     <div class="caption">Training Video Samples</div>
 </body>
