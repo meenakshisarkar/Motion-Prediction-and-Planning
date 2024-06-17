@@ -21,6 +21,11 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 ![](/images/gt_1.gif){:height="150px" width="150px"}    ![](/images/gt_2.gif){:height="150px" width="150px"} ![](/images/gt_3.gif){:height="150px" width="150px"}    ![](/images/gt_4.gif){:height="150px" width="150px"}
 *Training Video Samples*
 
+# Models
+![**Ground Truth**](/images/gt_5.gif){:height="140" width="140"} ![Vg-Leap](/images/vg-leap.gif){:height="140" width="140"}    ![Causal-Leap](/images/causal-leap.gif){:height="140" width="140"} ![RAFI](/images/rafi.gif){:height="140" width="140"} ![SVG](/images/svg-leap.gif){:height="140" width="140"}
+
+***Ground Truth*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Vg-Leap*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Causal-Leap*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***RAFI*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***SVG***
+
 # RoAM Dataset Download
 
 The initial version of the dataset is currently available in TFRecord file format. To download the dataset, please drop an email to <meenakshisar@iisc.ac.in> with the subject line **Access to RoAM dataset** along with your affiliation and purpose to use for the dataset. 
