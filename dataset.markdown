@@ -17,6 +17,49 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 ![](/images/fig_roman_processed_data.png){: .center-image }
 *The processed data file structure of RoAM*
 
+# Samples
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0;
+        }
+        .image-container img {
+            height: 160px;
+            width: 160px;
+            margin: 0 10px;
+        }
+        .caption {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 10px;
+            font-size: 18px; /* Set the text size here */
+        }
+        .image-container img {
+    height: 160px;
+    width: 160px;
+    margin: 0 10px;
+    border: 4px solid green; /* Add a green border around each image */
+    box-sizing: border-box; /* Include border in image size */
+}
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="../images/gt_1.gif" alt="Training Sample 1">
+        <img src="../images/gt_2.gif" alt="Training Sample 2">
+        <img src="../images/gt_3.gif" alt="Training Sample 3">
+        <img src="../images/gt_4.gif" alt="Training Sample 4">
+    </div>
+    <div class="caption">Training Video Samples</div>
+</body>
+</html>
+
 # RoAM Dataset Download
 
 The initial version of the dataset is currently available in TFRecord file format. To download the dataset, please drop an email to <meenakshisar@iisc.ac.in> with the subject line **Access to RoAM dataset** along with your affiliation and purpose to use for the dataset. 
