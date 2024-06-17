@@ -18,47 +18,8 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 *The processed data file structure of RoAM*
 
 # Samples
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .image-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: 20px 0;
-        }
-        .image-container img {
-            height: 160px;
-            width: 160px;
-            margin: 0 10px;
-        }
-        .caption {
-            text-align: center;
-            font-weight: bold;
-            margin-top: 10px;
-            font-size: 18px; /* Set the text size here */
-        }
-        .image-container img {
-    height: 160px;
-    width: 160px;
-    margin: 0 10px;
-    border: 4px solid green; /* Add a green border around each image */
-    box-sizing: border-box; /* Include border in image size */
-}
-    </style>
-</head>
-<body>
-    <div class="image-container">
-        <img src="/images/gt_1.gif" alt="Training Sample 1">
-        <img src="/images/gt_2.gif" alt="Training Sample 2">
-        <img src="/images/gt_3.gif" alt="Training Sample 3">
-        <img src="/images/gt_4.gif" alt="Training Sample 4">
-    </div>
-    <div class="caption">Training Video Samples</div>
-</body>
-</html>
+![](/images/gt_1.gif){:height="150px" width="150px"}    ![](/images/gt_2.gif){:height="150px" width="150px"} ![](/images/gt_3.gif){:height="150px" width="150px"}    ![](/images/gt_4.gif){:height="150px" width="150px"}
+*Training Video Samples*
 
 # RoAM Dataset Download
 
