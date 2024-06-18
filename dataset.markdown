@@ -3,6 +3,7 @@ layout: page
 title: ROAM Dataset
 description: Robot Autonomous Motion Dataset
 permalink: /dataset/
+background: '/images/collage.jpg'
 ---
 
 # About
