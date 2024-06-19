@@ -27,14 +27,14 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 *Training Video Samples*
 
 # Models
-![**Ground Truth**](/images/gt_5.gif){:height="140" width="140"} ![Vg-Leap](/images/vg-leap_1.gif){:height="140" width="140"}    ![Causal-Leap](/images/causal-leap_1.gif){:height="140" width="140"} ![SVG](/images/svg-leap_1.gif){:height="140" width="140"}
+![**Ground Truth**](/images/gt_5.gif){:height="150" width="150"} ![Vg-Leap](/images/vg-leap_1.gif){:height="150" width="150"}    ![Causal-Leap](/images/causal-leap_1.gif){:height="150" width="150"} ![SVG](/images/svg-leap_1.gif){:height="150" width="150"}
 
-![**Ground Truth**](/images/gt_6.gif){:height="140" width="140"} ![Vg-Leap](/images/vg-leap_2.gif){:height="140" width="140"}    ![Causal-Leap](/images/causal-leap_2.gif){:height="140" width="140"} ![SVG](/images/svg-leap_2.gif){:height="140" width="140"}
+![**Ground Truth**](/images/gt_6.gif){:height="150" width="150"} ![Vg-Leap](/images/vg-leap_2.gif){:height="150" width="150"}    ![Causal-Leap](/images/causal-leap_2.gif){:height="150" width="150"} ![SVG](/images/svg-leap_2.gif){:height="150" width="150"}
 
 ***Ground Truth*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Vg-Leap*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Causal-Leap*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***SVG***
 
 # Results
-![**Ground Truth**](/images/psnr.png){:height="150" width="200"} ![Causal-Leap](/images/lpips.png){:height="150" width="200"} ![SVG](/images/vgg-16.png){:height="150" width="200"}
+![**Ground Truth**](/images/psnr.png){:height="200" width="250"} ![Causal-Leap](/images/lpips.png){:height="200" width="250"} ![SVG](/images/vgg-16.png){:height="200" width="250"}
 
 ![**Ground Truth**](../images/fvd.png)
 
