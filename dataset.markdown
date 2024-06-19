@@ -34,7 +34,7 @@ The RoAM dataset is collected using a custom-built Turtlebot3 Burger robot. We h
 ***Ground Truth*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Vg-Leap*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Causal-Leap*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***SVG***
 
 # Results
-![**Ground Truth**](/images/psnr.png){:height="200" width="250"} ![Causal-Leap](/images/lpips.png){:height="200" width="250"} ![SVG](/images/vgg-16.png){:height="200" width="250"}
+![**Ground Truth**](/images/psnr.png){:height="200" width="240"} ![Causal-Leap](/images/lpips.png){:height="200" width="240"} ![SVG](/images/vgg-16.png){:height="200" width="240"}
 
 ![**Ground Truth**](../images/fvd.png)
 
